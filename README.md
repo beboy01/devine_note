@@ -1,7 +1,7 @@
 # devine_note
 ce exercice permettre à un utilisateur de renseigner sa notre 
-#exercie 2 de nan sur  les condiction 
 ```python
+# exercie 2 de nan sur  les condiction 
 
 from math import*
 note =int(input("Donnez moi votre note :"))
@@ -20,7 +20,7 @@ elif note>=18 and note <20:
 elif note==20 :
   ```
 ```python
-exercice 1 de nan sur condiction simple
+# exercice 1 de nan sur condiction simple
 un exercice qui vérifie si l'on est entraine d'apprendre python ou non
 
 nom=input("Quel language vous être en train d'apprend ?   ")
